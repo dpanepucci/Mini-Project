@@ -1,0 +1,25 @@
+* {
+    font-family:'Times New Roman', Times, serif
+}
+
+.list {
+    text-align: right;
+    list-style-type: none;
+    display: inline-block;
+    
+}
+
+ul {
+    text-align: right;
+    color: white;
+    background-color: darkgreen;
+}
+
+h1 {
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+    font-weight: bolder;
+}
